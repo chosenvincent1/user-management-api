@@ -43,8 +43,8 @@ It also includes security features such as **helmet**, **express-rate-limit**, *
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/user-management-api.git
-cd user-management-api
+git clone https://github.com/chosenvincent1/user-management-api.git
+cd user-management
 ```
 
 ### 2. Install dependencies
